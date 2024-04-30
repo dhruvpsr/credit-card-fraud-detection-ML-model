@@ -36,7 +36,7 @@ This project implements a web application for predicting churn using machine lea
    git clone https://github.com/dhruvpsr/Credit-Card-Fraud-Detection-ML-Model.git
 
 2. Install the required Python packages: 
-`pip install -r requirements.txt`
+`pip install -r requirement.txt`
 
 ## Usage
 1. Run the web application: 
